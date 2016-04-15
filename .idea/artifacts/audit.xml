@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="audit">
+    <output-path>E:/fartec/ichange/audit/tomcat/webapps/</output-path>
+    <root id="archive" name="audit.war">
+      <element id="artifact" artifact-name="audit:war exploded" />
+    </root>
+  </artifact>
+</component>
